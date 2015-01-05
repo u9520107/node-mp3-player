@@ -1,0 +1,27 @@
+{
+  "name": "node-mp3-player",
+  "version": "0.0.1",
+  "description": "node-mp3-player ===============",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/u9520107/node-mp3-player"
+  },
+  "author": "Jack Tzu-Chieh Huang <u9520107>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/u9520107/node-mp3-player/issues"
+  },
+  "homepage": "https://github.com/u9520107/node-mp3-player",
+  "devDependencies": {
+    "greasebox": "^0.2.2",
+    "gulp": "^3.8.10"
+  },
+  "dependencies": {
+    "lame": "^1.1.1",
+    "speaker": "^0.2.1"
+  }
+}
