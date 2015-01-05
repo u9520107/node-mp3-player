@@ -22,6 +22,7 @@
   },
   "dependencies": {
     "lame": "^1.1.1",
+    "pcm-volume": "0.0.1",
     "speaker": "^0.2.1"
   }
 }
